@@ -1,0 +1,4 @@
+pathlib
+python-dotenv
+sqlalchemy
+scikit-learn
